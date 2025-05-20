@@ -54,3 +54,12 @@ The chamber grows still. The golem stands beside you, silent and unmoving.
 You inhale deeply, knowing this choice may shape not only your fate—but that of the entire kingdom.
 
 Which trial do you choose?
+The Watcher nods slowly, its many arms moving in a rhythmic pattern. “Then let your mind be your weapon.”
+
+The chamber shifts—the obsidian floor slides aside, revealing a circular arena with towering stone pillars etched in glowing runes. As you step forward, the pillars begin to shift and rotate silently, rearranging their formation.
+
+A deep voice echoes, “Arrange the pillars to create a path to the center. But beware—each move alters the pattern. Solve the puzzle before the time runs out, or be trapped here forever.”
+
+You study the pillars carefully. Each seems to pulse with elemental energy—fire, water, earth, and air—hinting at the order they must be aligned.
+
+You take a breath and begin, touching the first pillar, feeling a warmth spread from the rune. Slowly, the pillars shift with satisfying clicks as you start to unravel the ancient mechanism…
