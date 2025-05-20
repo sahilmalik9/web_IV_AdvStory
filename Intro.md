@@ -36,4 +36,3 @@ As you descend the Ironhowl Mountains, dawn breaks across the horizon. The storm
 
 The Crystal of Aether has been found. The story begins anew.
 
-—THE END—
