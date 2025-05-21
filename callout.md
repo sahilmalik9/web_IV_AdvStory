@@ -1,5 +1,9 @@
-# Call for Help
+# Call Out
+You shout into the darkness. At first, nothing. Then, a faint voice responds from the distance.
 
-Your voice echoes through the chamber. For a moment, silence — then a distant voice answers back. It sounds scared... or is it a trap?
+It’s unclear whether it’s friendly… or a trap. Your heart pounds in your chest. The silence returns, but you swear you can hear footsteps approaching — slowly, deliberately.
 
-What should you do next?
+What will you do?
+
+- [Walk toward the voice](voice.md)
+- [Hide behind a stone pillar](pillar.md)
