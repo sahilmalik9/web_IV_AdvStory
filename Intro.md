@@ -6,4 +6,4 @@ What should you do next?
 - [Inspect the glowing object](inspect.md)
 - [Call out to see if anyone's there](callout.md)
 - [Ask the stranger who they are](ask-stranger.md)
-
+- [Wanna have a look what it is](hide.md)
